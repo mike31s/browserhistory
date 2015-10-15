@@ -1,12 +1,13 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  color: darkblue;
+  color: white;
   margin: 10px 50px 10px 50px;
-  background-color: Ivory;
+  background-color: black;
+
 }
 
 #navbar ul {
-  list-style-type: none;
+  float: left;
   padding: 0;
 }
 
@@ -41,8 +42,8 @@ img {
 }
 
 .center {
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 30%;
+  margin-right: 30%;
   width: 300px;
   padding: 1cm;
 }
